@@ -15,3 +15,19 @@ You'll need Python installed on your machine, plus the `pandas` library. If you 
 
 ```bash
 pip install pandas
+
+How to Use It
+
+Grab your CSV file and run the script like this:
+
+bash
+
+python csv_analyzer.py path/to/your/file.csv
+
+And that's it! The script will take care of the rest.
+Get Involved
+
+Got an idea to make this tool even better? I'd love to hear it. Feel free to fork, code away, and make a pull request, or just drop me a message.
+License
+
+This script is released under the MIT License. Feel free to use it, tweak it, and share it as you like.
